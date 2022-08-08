@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idipak
 - 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning Block pattern in FLutter
+- 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on Flutter app
 - 📫 You can reach me on twitter: https://twitter.com/Dipak_Prasad1
 
